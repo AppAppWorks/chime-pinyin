@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Privacy Policy for Aloud! - Text to Speech
+title: Privacy Policy for Hanyu Pinyin Dictionary
 include_in_header: false
 ---
 
 # Privacy Policy
-This privacy policy governs your use of the software application Aloud! - Text to Speech (“Application”) for mobile devices that was created by AppAppWorks. The Application is&nbsp;a text to speech reader that synthesizes speech from plain text supporting several languages. Users can import text in various formats like PDF, DOCX, EPUB and etc, and have the contents and reading progresses stored for easy access.&nbsp; 
+This privacy policy governs your use of the software application Hanyu Pinyin Dictionary (“Application”) for mobile devices that was created by AppAppWorks. The Application is&nbsp;a dictionary supporting lookup of Hanyu Pinyin by Chinese characters and vice versa.&nbsp; 
 
 ## What information does the Application obtain and how is it used?
 
